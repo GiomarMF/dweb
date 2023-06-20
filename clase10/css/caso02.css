@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.caja{
+    
+    width: 50%;
+    margin: 50px auto;
+    border: 5px solid rgb(10, 248, 204);
+    background-color: rgb(2, 210, 141);
+    border-radius: 5px;
+    padding: 0px;
+    box-shadow: 30px 10px 20px #aaa;
+
+}
+a{
+    text-decoration: none;
+    border-radius: 10px;
+    margin:5px;
+    padding: 5px;
+    font-size: 35px;
+    color: white;
+}
