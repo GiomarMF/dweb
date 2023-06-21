@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    border: 3px solid;
+    border-color: green;
+    border-radius: 20px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 0 0 50px green;
+}
+h1{
+    text-align: center;
+    color: #f8ae0f;
+}
+p{
+    text-align: justify;
+}
+.boton{
+    display: inline-block;
+    background-color: #1c9e0b;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 15px;
+    padding: 8px;
+    margin: 15px 10px;
+    color: white;
+    transition-property: background-color,color;
+    transition: 2000ms;/*s=segundos=1000ms*/
+}
+.boton:hover {
+    background-color: #b8ebed;
+    color: #33b8ff;
+
+}
