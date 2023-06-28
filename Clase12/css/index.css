@@ -1,0 +1,10 @@
+section.contenedor{
+    width: 800px;
+    height: 700px;
+    background-color: gainsboro;
+    margin: 0 auto;
+}
+div{
+    display: inline-block;
+    margin:0 auto;
+}
